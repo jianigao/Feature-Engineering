@@ -1,7 +1,5 @@
 ## Feature Engineering
 
-Get the most out of your data using features.
-
 This repository includes Python files for Kaggle's course on Feature Engineering: 
 
 * What is feature engineering: to learn the steps and principles of creating better features
